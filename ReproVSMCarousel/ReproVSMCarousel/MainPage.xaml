@@ -11,7 +11,7 @@
                   IsSwipeEnabled="True"
                   HorizontalOptions="FillAndExpand">
         <CarouselView.ItemsLayout>
-            <LinearItemsLayout Orientation="Vertical"
+            <LinearItemsLayout Orientation="Horizontal"
                                SnapPointsAlignment="End"
                                SnapPointsType="MandatorySingle" />
         </CarouselView.ItemsLayout>
